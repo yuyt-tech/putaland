@@ -664,3 +664,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19May2025 23:23:12.990] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
 [19May2025 23:23:13.385] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
 [19May2025 23:23:13.388] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[19May2025 23:25:24.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Disconnected
+[19May2025 23:25:24.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[19May2025 23:25:24.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[19May2025 23:26:11.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.117.245.198:44729] logged in with entity id 9333 at (247.66062862935584, 63.0, -55.474608638965)
+[19May2025 23:26:11.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[19May2025 23:26:11.271] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[19May2025 23:26:11.300] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[19May2025 23:26:11.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[19May2025 23:26:11.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[19May2025 23:26:41.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Timed out
+[19May2025 23:26:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[19May2025 23:26:41.172] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[19May2025 23:27:36.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.101.68.224:54699] logged in with entity id 9415 at (247.66062862935584, 63.0, -55.474608638965)
+[19May2025 23:27:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[19May2025 23:27:36.329] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[19May2025 23:27:36.358] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[19May2025 23:27:36.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[19May2025 23:27:36.768] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[19May2025 23:28:06.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Timed out
+[19May2025 23:28:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[19May2025 23:28:06.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[19May2025 23:28:21.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19May2025 23:28:21.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 23:28:21.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 23:28:21.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 23:28:21.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19May2025 23:28:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19May2025 23:28:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19May2025 23:28:23.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19May2025 23:28:23.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19May2025 23:28:23.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[19May2025 23:28:23.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19May2025 23:28:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19May2025 23:28:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19May2025 23:28:23.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19May2025 23:28:23.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19May2025 23:28:23.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[19May2025 23:28:23.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19May2025 23:28:23.199] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19May2025 23:28:23.200] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[19May2025 23:28:23.202] [Server thread/INFO] [Framework/]: Finished unloading server configs
