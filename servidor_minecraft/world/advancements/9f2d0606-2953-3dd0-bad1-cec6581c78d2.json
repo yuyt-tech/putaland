@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2025-05-19 20:05:11 +0000",
+      "minecraft:cold_ocean": "2025-05-19 23:02:54 +0000",
       "minecraft:forest": "2025-05-19 21:17:12 +0000",
       "minecraft:plains": "2025-05-19 20:55:03 +0000"
     },
@@ -633,7 +634,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-19 22:52:16 +0000",
       "minecraft:spider": "2025-05-19 21:16:50 +0000",
+      "minecraft:creeper": "2025-05-19 23:09:08 +0000",
       "minecraft:zombie": "2025-05-19 21:15:36 +0000"
     },
     "done": false
@@ -933,6 +936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 22:55:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-05-19 22:46:54 +0000"
@@ -944,6 +953,12 @@
       "opened_chest": "2025-05-19 22:48:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 22:55:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
@@ -1023,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-19 23:02:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-19 22:40:35 +0000"
@@ -1083,9 +1104,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-05-19 22:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-19 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-19 23:09:49 +0000"
     },
     "done": true
   },
@@ -1233,9 +1266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-19 23:02:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-19 22:52:18 +0000"
     },
     "done": true
   },
@@ -1281,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-19 22:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 22:44:42 +0000"
@@ -1290,6 +1341,12 @@
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-19 23:09:49 +0000"
     },
     "done": true
   },
@@ -1449,6 +1506,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-19 22:52:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 22:46:54 +0000"
@@ -1464,6 +1527,12 @@
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-19 23:09:49 +0000"
     },
     "done": true
   },
@@ -1500,6 +1569,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 22:55:36 +0000"
     },
     "done": true
   },

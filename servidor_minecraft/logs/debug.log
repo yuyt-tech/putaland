@@ -3951,3 +3951,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19May2025 22:52:11.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [19May2025 22:52:15.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [19May2025 22:52:16.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19May2025 22:54:28.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19May2025 22:56:33.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 22:56:33.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:01:33.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 23:01:33.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:02:49.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt moved too quickly! 6.18154961722874,-6.559683385881939,-5.426518614571293
+[19May2025 23:06:33.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 23:06:33.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:09:05.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19May2025 23:09:08.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19May2025 23:10:33.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=286, y=61, z=-32} BlockPos{x=286, y=62, z=-32}
+[19May2025 23:11:33.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 23:11:33.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:11:52.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Disconnected
+[19May2025 23:11:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[19May2025 23:11:52.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of mauco_gt
+[19May2025 23:11:52.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt

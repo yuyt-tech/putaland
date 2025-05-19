@@ -644,3 +644,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19May2025 22:48:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt has made the advancement ['X' Marks the Spot]
 [19May2025 22:48:23.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt has made the advancement [Ice Bucket Challenge]
 [19May2025 22:48:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt has made the advancement [Magic Writing]
+[19May2025 23:02:49.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt moved too quickly! 6.18154961722874,-6.559683385881939,-5.426518614571293
+[19May2025 23:10:33.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=286, y=61, z=-32} BlockPos{x=286, y=62, z=-32}
+[19May2025 23:11:52.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Disconnected
+[19May2025 23:11:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[19May2025 23:11:52.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
