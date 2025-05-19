@@ -1,0 +1,8 @@
+{
+    "type" : "minecraft:smelting",
+    "cookingtime" : 50,
+    "experience" : 1,
+    "group" : "",
+    "ingredient" : {"item" : "featurecreep:tigers_eye_ore"},
+    "result" : "featurecreep:tigers_eye_ingot"
+}

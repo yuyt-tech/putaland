@@ -1,0 +1,1 @@
+{"parent" : "minecraft:block/cube", "textures" : {"down" : "featurecreep:block/ruby_ore", "east" : "featurecreep:block/ruby_ore", "north" : "featurecreep:block/ruby_ore", "particle" : "featurecreep:block/ruby_ore", "south" : "featurecreep:block/ruby_ore", "up" : "featurecreep:block/ruby_ore", "west" : "featurecreep:block/ruby_ore"}}

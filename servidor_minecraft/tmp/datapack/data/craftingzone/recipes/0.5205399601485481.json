@@ -1,0 +1,8 @@
+{
+    "type" : "minecraft:smelting",
+    "cookingtime" : 50,
+    "experience" : 1,
+    "group" : "",
+    "ingredient" : {"item" : "featurecreep:ruby_ore"},
+    "result" : "featurecreep:ruby"
+}

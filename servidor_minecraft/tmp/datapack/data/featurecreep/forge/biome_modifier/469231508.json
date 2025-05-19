@@ -1,0 +1,6 @@
+{
+    "type" : "forge:add_features",
+    "biomes" : "#minecraft:is_overworld",
+    "features" : "orespawn:ore_tigers_eye",
+    "step" : "underground_ores"
+}

@@ -1,0 +1,1 @@
+{"parent" : "minecraft:block/cube", "textures" : {"down" : "featurecreep:block/amethyst_block", "east" : "featurecreep:block/amethyst_block", "north" : "featurecreep:block/amethyst_block", "particle" : "featurecreep:block/amethyst_block", "south" : "featurecreep:block/amethyst_block", "up" : "featurecreep:block/amethyst_block", "west" : "featurecreep:block/amethyst_block"}}

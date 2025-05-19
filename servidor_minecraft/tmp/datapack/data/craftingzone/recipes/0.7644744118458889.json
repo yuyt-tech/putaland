@@ -1,0 +1,8 @@
+{
+    "type" : "minecraft:smelting",
+    "cookingtime" : 50,
+    "experience" : 1,
+    "group" : "",
+    "ingredient" : {"item" : "featurecreep:titanium_ore"},
+    "result" : "featurecreep:titanium_nugget"
+}

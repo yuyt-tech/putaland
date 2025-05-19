@@ -1,0 +1,8 @@
+{
+    "type" : "minecraft:smelting",
+    "cookingtime" : 50,
+    "experience" : 1,
+    "group" : "",
+    "ingredient" : {"item" : "featurecreep:gasoline_petrol_ore"},
+    "result" : "featurecreep:gasoline_petrol"
+}

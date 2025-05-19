@@ -1,0 +1,23 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "key" : {
+        "A" : {"item" : "featurecreep:uranium_nugget"},
+        "B" : {"item" : "featurecreep:uranium_nugget"},
+        "C" : {"item" : "featurecreep:uranium_nugget"},
+        "D" : {"item" : "featurecreep:uranium_nugget"},
+        "E" : {"item" : "featurecreep:uranium_nugget"},
+        "F" : {"item" : "featurecreep:uranium_nugget"},
+        "G" : {"item" : "featurecreep:uranium_nugget"},
+        "H" : {"item" : "featurecreep:uranium_nugget"},
+        "I" : {"item" : "featurecreep:uranium_nugget"}
+    },
+    "pattern" : [
+        "ABC",
+        "DEF",
+        "GHI"
+    ],
+    "result" : {
+        "count" : 1,
+        "item" : "featurecreep:uranium_ingot"
+    }
+}

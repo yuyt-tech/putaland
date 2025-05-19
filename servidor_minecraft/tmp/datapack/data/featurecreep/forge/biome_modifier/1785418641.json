@@ -1,0 +1,6 @@
+{
+    "type" : "forge:add_features",
+    "biomes" : "#minecraft:is_overworld",
+    "features" : "orespawn:ore_amethyst",
+    "step" : "underground_ores"
+}

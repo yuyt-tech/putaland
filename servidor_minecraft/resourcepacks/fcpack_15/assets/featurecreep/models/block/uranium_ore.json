@@ -1,0 +1,1 @@
+{"parent" : "minecraft:block/cube", "textures" : {"down" : "featurecreep:block/uranium_ore", "east" : "featurecreep:block/uranium_ore", "north" : "featurecreep:block/uranium_ore", "particle" : "featurecreep:block/uranium_ore", "south" : "featurecreep:block/uranium_ore", "up" : "featurecreep:block/uranium_ore", "west" : "featurecreep:block/uranium_ore"}}

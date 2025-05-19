@@ -1,0 +1,23 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "key" : {
+        "A" : {"item" : "featurecreep:titanium_nugget"},
+        "B" : {"item" : "featurecreep:titanium_nugget"},
+        "C" : {"item" : "featurecreep:titanium_nugget"},
+        "D" : {"item" : "featurecreep:titanium_nugget"},
+        "E" : {"item" : "featurecreep:titanium_nugget"},
+        "F" : {"item" : "featurecreep:titanium_nugget"},
+        "G" : {"item" : "featurecreep:titanium_nugget"},
+        "H" : {"item" : "featurecreep:titanium_nugget"},
+        "I" : {"item" : "featurecreep:titanium_nugget"}
+    },
+    "pattern" : [
+        "ABC",
+        "DEF",
+        "GHI"
+    ],
+    "result" : {
+        "count" : 1,
+        "item" : "featurecreep:titanium_ingot"
+    }
+}
