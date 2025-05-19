@@ -13930,3 +13930,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [19May2025 17:16:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
 [19May2025 17:16:08.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of mauco_gt
 [19May2025 17:16:08.231] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[19May2025 17:17:48.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:17:48.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 17:22:48.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:22:48.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
