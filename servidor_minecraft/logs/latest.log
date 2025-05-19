@@ -649,3 +649,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19May2025 23:11:52.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Disconnected
 [19May2025 23:11:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
 [19May2025 23:11:52.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[19May2025 23:14:25.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.101.68.224:46337] logged in with entity id 7363 at (251.53020053474322, 63.0, -32.73152015000802)
+[19May2025 23:14:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[19May2025 23:14:25.386] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[19May2025 23:14:25.411] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[19May2025 23:14:27.388] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[19May2025 23:14:27.389] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[19May2025 23:19:25.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Timed out
+[19May2025 23:19:25.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[19May2025 23:19:25.913] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[19May2025 23:23:12.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.101.68.224:33979] logged in with entity id 8975 at (282.67375981542995, 63.0, -18.050452471249194)
+[19May2025 23:23:12.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[19May2025 23:23:12.952] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[19May2025 23:23:12.990] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[19May2025 23:23:13.385] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[19May2025 23:23:13.388] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
