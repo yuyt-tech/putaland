@@ -272,3 +272,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20May2025 19:10:53.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt was killed by Naga using magic
 [20May2025 19:10:53.331] [Server thread/INFO] [tombstone/]: The player mauco_gt has successfully been saved
 [20May2025 19:16:16.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[20May2025 19:24:10.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samlr17[/127.63.214.223:35887] logged in with entity id 4638 at (252.94032565562975, 63.0, -28.804831239608923)
+[20May2025 19:24:10.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 joined the game
+[20May2025 19:24:11.175] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: samlr17
+[20May2025 19:24:11.201] [Server thread/INFO] [Jade/]: Syncing config to samlr17 (862ea38b-9dc0-3c3e-bded-58331a4207e7)
+[20May2025 19:24:24.864] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of samlr17 (18)
+[20May2025 19:24:24.865] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to samlr17
+[20May2025 19:29:45.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 has made the advancement [Stone Age]
