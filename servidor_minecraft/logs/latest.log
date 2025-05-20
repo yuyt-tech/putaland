@@ -271,3 +271,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20May2025 19:10:04.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
 [20May2025 19:10:53.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt was killed by Naga using magic
 [20May2025 19:10:53.331] [Server thread/INFO] [tombstone/]: The player mauco_gt has successfully been saved
+[20May2025 19:16:16.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
