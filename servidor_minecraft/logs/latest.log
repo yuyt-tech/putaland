@@ -1447,3 +1447,14 @@ Things may not work well.
 [20May2025 23:43:31.851] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
 [20May2025 23:43:32.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
 [20May2025 23:43:32.824] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[20May2025 23:46:21.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt was slain by Centipede Evictor Larvae
+[20May2025 23:46:21.817] [Server thread/INFO] [tombstone/]: The player mauco_gt has successfully been saved
+[20May2025 23:46:47.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Timed out
+[20May2025 23:46:47.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[20May2025 23:46:47.010] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[20May2025 23:47:25.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.76.206.9:42053] logged in with entity id 4976 at (207.16985014383542, 59.013798787474336, 5.63908707431751)
+[20May2025 23:47:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[20May2025 23:47:25.941] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[20May2025 23:47:25.967] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[20May2025 23:47:26.865] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[20May2025 23:47:26.866] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
