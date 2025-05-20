@@ -256,3 +256,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20May2025 13:48:08.363] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
 [20May2025 13:48:08.805] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
 [20May2025 13:48:08.810] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[20May2025 13:53:17.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52640d9d[id=<null>,name=samlr17,properties={},legacy=false] (/127.63.214.223:51789) lost connection: Disconnected
+[20May2025 13:54:14.015] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@db0012d[id=<null>,name=samlr17,properties={},legacy=false] (/127.63.214.223:40617): Took too long to log in
+[20May2025 13:54:14.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@db0012d[id=<null>,name=samlr17,properties={},legacy=false] (/127.63.214.223:40617) lost connection: Took too long to log in
+[20May2025 13:54:14.068] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20May2025 13:55:11.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samlr17[/127.63.214.223:52277] logged in with entity id 2276 at (140.5, 67.0, 74.5)
+[20May2025 13:55:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 joined the game
+[20May2025 13:55:12.088] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: samlr17
+[20May2025 13:55:12.137] [Server thread/INFO] [Jade/]: Syncing config to samlr17 (862ea38b-9dc0-3c3e-bded-58331a4207e7)
+[20May2025 13:55:30.178] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of samlr17 (18)
+[20May2025 13:55:30.179] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to samlr17
+[20May2025 13:55:30.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 was slain by Zombie
+[20May2025 13:55:30.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 has made the advancement [Your First Grave]
+[20May2025 13:55:30.848] [Server thread/INFO] [tombstone/]: The player samlr17 has successfully been saved
+[20May2025 13:56:51.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt moved too quickly! 7.276232349831304,1.0,6.974692724786053
+[20May2025 13:57:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt was slain by Zombie
+[20May2025 13:57:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt has made the advancement [Your First Grave]
+[20May2025 13:57:05.879] [Server thread/INFO] [tombstone/]: The player mauco_gt has successfully been saved
+[20May2025 13:57:20.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt moved too quickly! 7.089888510235937,1.164773281826072,7.226937076681267
+[20May2025 13:57:25.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt was kicked for floating too long!
+[20May2025 13:57:25.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Flying is not enabled on this server
+[20May2025 13:57:25.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[20May2025 13:57:25.095] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[20May2025 13:57:49.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.63.214.223:36425] logged in with entity id 2827 at (177.48750482402113, 69.00133597911214, 101.80024691301458)
+[20May2025 13:57:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[20May2025 13:57:49.197] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[20May2025 13:57:49.214] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[20May2025 13:57:49.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[20May2025 13:57:49.417] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[20May2025 13:58:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 has reached the goal [Here They Come]
+[20May2025 13:58:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt has made the advancement [A Strange Grave Dust]
+[20May2025 14:00:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt was blown up by Creeper
+[20May2025 14:00:31.652] [Server thread/INFO] [tombstone/]: The player mauco_gt has successfully been saved
+[20May2025 14:00:39.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt was kicked for floating too long!
+[20May2025 14:00:39.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Flying is not enabled on this server
+[20May2025 14:00:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[20May2025 14:00:39.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[20May2025 14:01:20.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mauco_gt[/127.63.214.223:52141] logged in with entity id 3624 at (140.68171651132656, 69.17675927506424, 68.1479999630252)
+[20May2025 14:01:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt joined the game
+[20May2025 14:01:20.579] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mauco_gt
+[20May2025 14:01:20.605] [Server thread/INFO] [Jade/]: Syncing config to mauco_gt (9f2d0606-2953-3dd0-bad1-cec6581c78d2)
+[20May2025 14:01:20.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mauco_gt (18)
+[20May2025 14:01:20.972] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mauco_gt
+[20May2025 14:01:50.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mauco_gt lost connection: Timed out
+[20May2025 14:01:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mauco_gt left the game
+[20May2025 14:01:50.465] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mauco_gt
+[20May2025 14:01:57.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samlr17 lost connection: Timed out
+[20May2025 14:01:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlr17 left the game
+[20May2025 14:01:57.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client samlr17
