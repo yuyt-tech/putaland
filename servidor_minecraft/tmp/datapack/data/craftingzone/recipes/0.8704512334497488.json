@@ -1,8 +1,0 @@
-{
-    "type" : "minecraft:smelting",
-    "cookingtime" : 50,
-    "experience" : 1,
-    "group" : "",
-    "ingredient" : {"item" : "featurecreep:unprocessed_oil_ore"},
-    "result" : "featurecreep:oil"
-}
